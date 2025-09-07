@@ -9,7 +9,7 @@ The primary objective is to maximize recall for high-risk borrowers, ensuring th
 ##  Project Structure
 - `notebooks/` → Jupyter notebooks with preprocessing, model building, and evaluation.  
 - `data/` → (Not included in repo – link or instructions on where to download dataset).  
-- `models/` → Saved model weights (if provided).  
+- `models/` → Saved model weights.  
 - `requirements.txt` → Python dependencies.  
 
 ---
